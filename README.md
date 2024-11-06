@@ -12,6 +12,18 @@
 ## Sobre 
 Resoluções de questões de níveis variados (Médio e Difícil) contemplando os conteúdos aprendidos em sala de aula sobre a matéria de Grafos 1.
 
+## Questões
+| Nome                                                                                                                                                                | Nível   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)                                          | Difícil |
+| [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                                    | Média   |
+| [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)                                                | Difícil |
+| [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/)                                                 | Difícil |
+
+## Vídeo
+
+[Explicação]()
+
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
