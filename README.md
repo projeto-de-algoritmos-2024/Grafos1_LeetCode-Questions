@@ -29,48 +29,61 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 Explicação: 
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoLongest.png)<br>
 
 Caso 1:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Longest.png)<br>
 
 Caso 2:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Longest.png)<br>
 
 Caso 3:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case3_Longest.png)<br>
 
 ### [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)   
 
 Explicação: 
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoKeys.png)<br>
 
 Caso 1:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Keys.png)<br>
 
 Caso 2:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Keys.png)<br>
 
 ### [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)    
 
 Explicação: 
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoShortest.png)<br>
 
 Caso 1:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Shortest.png)<br>
 
 Caso 2:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Shortest.png)<br>
 
 ### [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/)  
 
 Explicação: 
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoNumber.png)<br>
 
 Caso 1:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Number.png)<br>
 
 Caso 2:
 
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Number.png)<br>
 
 ## Instalação 
 **Linguagem**: C#<br>
