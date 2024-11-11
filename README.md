@@ -22,7 +22,7 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Vídeo
 
-[Explicação]()
+[Explicação](https://youtu.be/zvA0crGgh_U)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
