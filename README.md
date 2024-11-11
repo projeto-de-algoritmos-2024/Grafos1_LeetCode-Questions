@@ -22,10 +22,55 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Vídeo
 
-[Explicação]()
+[Explicação](https://youtu.be/zvA0crGgh_U)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)    
+
+Explicação: 
+
+
+Caso 1:
+
+
+Caso 2:
+
+
+Caso 3:
+
+
+### [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)   
+
+Explicação: 
+
+
+Caso 1:
+
+
+Caso 2:
+
+
+### [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)    
+
+Explicação: 
+
+
+Caso 1:
+
+
+Caso 2:
+
+
+### [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/)  
+
+Explicação: 
+
+
+Caso 1:
+
+
+Caso 2:
+
 
 ## Instalação 
 **Linguagem**: C#<br>
